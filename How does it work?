@@ -1,0 +1,8 @@
+o	It will be accessible on Android and iOS mobile devices 
+o	Opening the mobile app, you will be able to view available parking spot locations two ways:
+o	In a map view (red spots = unavailable; green spots = available)
+o	List view that will display available and unavailable spots 
+o	Before parking into the available spot, you will be able to reserve it to give you time to find it and park there (time is limited to reserve it and how long you can park it there for)
+o	Each parking lot row with be labeled alphabetically and the lot itself will be numerical. 
+o	Once parked you will scan QR code sign that is in front of parking spot to confirm spot is unavailable and confirm reservation
+o	There will also be a sensor in the middle of the parking spot that will sense the car is there too 
